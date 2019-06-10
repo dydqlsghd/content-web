@@ -8,7 +8,7 @@ const request = require('request');
 
 //TODO: Exercise 2 - Task 6 - Step 4
 
-const contentApiUrl = "http://localhost:3001";
+//const contentApiUrl = "http://localhost:3001";
 //const contentApiUrl = process.env.CONTENT_API_URL;
 
 function getSessions(cb) {
